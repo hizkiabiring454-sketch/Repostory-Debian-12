@@ -28,4 +28,4 @@ Repository ini berisi dokumentasi pembelajaran dan konfigurasi sistem operasi De
 https://www.debian.org/releases/bookworm/
 
 ## Author
-Siswa SMK Telkom Medan - RPL
+Siswa SMK Telkom Medan
